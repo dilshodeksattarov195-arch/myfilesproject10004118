@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservalidate",
+        "uuid": 29480762,
+        "checksum": "i43c0s"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
